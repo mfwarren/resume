@@ -9,7 +9,7 @@ def prod():
     """Set the target to production."""
     env.user = 'halotis'
     env.hosts = ['halotis.webfactional.com']
-    env.remote_app_dir = 'webapps/mattwarrenblog/resume'
+    env.remote_app_dir = 'webapps/resume'
     env.remote_push_dest = 'ssh://halotis@halotis.webfactional.com/%s' % env.remote_app_dir
     env.tag = 'production'
 
