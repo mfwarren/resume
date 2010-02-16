@@ -29,9 +29,10 @@ def deploy():
     require('remote_push_dest', provided_by=[prod, ])
     require('tag', provided_by=[prod, ])
 
-    local("hg tag --local --force %s" % env.tag)
+    local("hg tag --force %s" % env.tag)
+    #local("hg tag --local --force %s" % env.tag)
     local("hg push %s --remotecmd %s" % (env.remote_push_dest, REMOTE_HG_PATH))
-    put(".hg/localtags", "%s/.hg/localtags" % env.remote_app_dir)
+    #put(".hg/localtags", "%s/.hg/localtags" % env.remote_app_dir)
     run("cd %s; hg update -C %s" % (env.remote_app_dir, env.tag))
 
 
