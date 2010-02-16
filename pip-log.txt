@@ -1,0 +1,1039 @@
+Downloading/unpacking fabric
+  Getting page http://pypi.python.org/simple/fabric
+  URLs to search for versions for fabric:
+  * http://pypi.python.org/simple/fabric/
+  Getting page http://pypi.python.org/simple/fabric/
+  Getting page http://fabfile.org
+  Getting page http://www.nongnu.org/fab/
+  Getting page https://savannah.nongnu.org/projects/fab/
+  Analyzing links from page http://pypi.python.org/simple/Fabric/
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.7.tar.gz#md5=18dab8530885cb689ed3d79f3a9eba86 (from http://pypi.python.org/simple/Fabric/), version: 0.0.7
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.1.tar.gz#md5=0f5f1f3a513c388b0cd5e68bf782686f (from http://pypi.python.org/simple/Fabric/), version: 0.0.1
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.9.0.tar.gz#md5=696e42e6e771fa2a365cd03536d4cdcf (from http://pypi.python.org/simple/Fabric/), version: 0.9.0
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.5.tar.gz#md5=446f3c1276d78ea7269c7e452f541582 (from http://pypi.python.org/simple/Fabric/), version: 0.0.5
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.1.1.tar.gz#md5=712991961bb876d2bb70d662cb67f454 (from http://pypi.python.org/simple/Fabric/), version: 0.1.1
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.2.tar.gz#md5=c0ae6c66e1708ed84aefa19375519f38 (from http://pypi.python.org/simple/Fabric/), version: 0.0.2
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.4.tar.gz#md5=2e81ef8b628b8fedb0b3fd7f00b3f0eb (from http://pypi.python.org/simple/Fabric/), version: 0.0.4
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.8.tar.gz#md5=4f09ecad0eb4984f7dc6bbf187195185 (from http://pypi.python.org/simple/Fabric/), version: 0.0.8
+    Found link http://pypi.python.org/packages/any/F/Fabric/Fabric-0.0.1.macosx-10.4-i386.tar.gz#md5=ca0b71422e2ce4d71947d13751d17672 (from http://pypi.python.org/simple/Fabric/), version: 0.0.1.macosx-10.4-i386
+    Found link http://pypi.python.org/packages/any/F/Fabric/Fabric-0.0.4.macosx-10.4-i386.tar.gz#md5=ae8c5097955cbe453aacd0f5eb6f23fc (from http://pypi.python.org/simple/Fabric/), version: 0.0.4.macosx-10.4-i386
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.6.tar.gz#md5=1eeb0b540a4a0bf25175354cf767a8b0 (from http://pypi.python.org/simple/Fabric/), version: 0.0.6
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.3.tar.gz#md5=7bc64a78efedaf219dda6d39faa6d613 (from http://pypi.python.org/simple/Fabric/), version: 0.0.3
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.1.0.tar.gz#md5=82bbaef1f59486a591de5b536629b504 (from http://pypi.python.org/simple/Fabric/), version: 0.1.0
+    Found link http://pypi.python.org/packages/source/F/Fabric/Fabric-0.0.9.tar.gz#md5=ac79968ae85907dd45ecb4b09c826571 (from http://pypi.python.org/simple/Fabric/), version: 0.0.9
+    Found link http://pypi.python.org/packages/any/F/Fabric/Fabric-0.0.3.macosx-10.4-i386.tar.gz#md5=c887a7dd5ee59fbb1c5ccded6e5b596d (from http://pypi.python.org/simple/Fabric/), version: 0.0.3.macosx-10.4-i386
+    Found link http://pypi.python.org/packages/source/F/Fabric/fabric-0.9rc1.tar.gz#md5=f5aa5a2d36ccdf435122d86742fcddd0 (from http://pypi.python.org/simple/Fabric/), version: 0.9rc1
+    Found link http://pypi.python.org/packages/any/F/Fabric/Fabric-0.0.2.macosx-10.4-i386.tar.gz#md5=d09773af77ce36bc1b55d0cdcf8598c0 (from http://pypi.python.org/simple/Fabric/), version: 0.0.2.macosx-10.4-i386
+    Found link http://pypi.python.org/packages/any/F/Fabric/Fabric-0.0.5.macosx-10.4-i386.tar.gz#md5=68b06f103835493d47107600f2757e3e (from http://pypi.python.org/simple/Fabric/), version: 0.0.5.macosx-10.4-i386
+    Skipping link http://fabfile.org (from http://pypi.python.org/simple/Fabric/); not a file
+    Skipping link http://www.nongnu.org/fab/ (from http://pypi.python.org/simple/Fabric/); not a file
+    Skipping link https://savannah.nongnu.org/projects/fab/ (from http://pypi.python.org/simple/Fabric/); not a file
+  Analyzing links from page http://docs.fabfile.org/0.9.0/
+    Skipping link http://docs.fabfile.org/0.9.0/_static/default.css (from http://docs.fabfile.org/0.9.0/); unknown archive format: .css
+    Skipping link http://docs.fabfile.org/0.9.0/_static/pygments.css (from http://docs.fabfile.org/0.9.0/); unknown archive format: .css
+    Skipping link http://docs.fabfile.org/0.9.0/ (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/tutorial.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/genindex.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/modindex.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/1.0/ (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#fabric (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#about (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#installation (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/installation.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#development (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/development.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#documentation (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#tutorial (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#usage-documentation (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/usage/env.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/execution.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/fab.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/fabfiles.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/output_controls.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/ssh.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#api-documentation (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#core-api (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/operations.html#fabric.operations.run (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/operations.html#fabric.operations.sudo (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/context_managers.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/decorators.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/operations.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/utils.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#contrib-api (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/api/contrib/console.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/contrib/files.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/contrib/project.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#changes-from-previous-versions (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/changes/0.9.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#getting-help (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#usage-docs (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#api-docs (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#mailing-list (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://lists.nongnu.org/mailman/listinfo/fab-user (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://docs.fabfile.org/0.9.0/#bugs-ticket-tracker (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://redmine.org (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://code.fabfile.org (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://docs.fabfile.org/0.9.0/#irc (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#wiki (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://moinmo.in (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://wiki.fabfile.org (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://docs.fabfile.org/0.9.0/_sources/index.txt (from http://docs.fabfile.org/0.9.0/); unknown archive format: .txt
+    Skipping link http://sphinx.pocoo.org/ (from http://docs.fabfile.org/0.9.0/); not a file
+  Analyzing links from page http://docs.fabfile.org/0.9.0/
+    Skipping link http://docs.fabfile.org/0.9.0/_static/default.css (from http://docs.fabfile.org/0.9.0/); unknown archive format: .css
+    Skipping link http://docs.fabfile.org/0.9.0/_static/pygments.css (from http://docs.fabfile.org/0.9.0/); unknown archive format: .css
+    Skipping link http://docs.fabfile.org/0.9.0/ (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/tutorial.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/genindex.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/modindex.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/1.0/ (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#fabric (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#about (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#installation (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/installation.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#development (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/development.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#documentation (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#tutorial (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#usage-documentation (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/usage/env.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/execution.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/fab.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/fabfiles.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/output_controls.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/usage/ssh.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#api-documentation (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#core-api (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/operations.html#fabric.operations.run (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/operations.html#fabric.operations.sudo (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/context_managers.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/decorators.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/operations.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/core/utils.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#contrib-api (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/api/contrib/console.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/contrib/files.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/api/contrib/project.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#changes-from-previous-versions (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/changes/0.9.html (from http://docs.fabfile.org/0.9.0/); unknown archive format: .html
+    Skipping link http://docs.fabfile.org/0.9.0/#getting-help (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#usage-docs (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#api-docs (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#mailing-list (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://lists.nongnu.org/mailman/listinfo/fab-user (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://docs.fabfile.org/0.9.0/#bugs-ticket-tracker (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://redmine.org (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://code.fabfile.org (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://docs.fabfile.org/0.9.0/#irc (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://docs.fabfile.org/0.9.0/#wiki (from http://docs.fabfile.org/0.9.0/); unknown archive format: .0
+    Skipping link http://moinmo.in (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://wiki.fabfile.org (from http://docs.fabfile.org/0.9.0/); not a file
+    Skipping link http://docs.fabfile.org/0.9.0/_sources/index.txt (from http://docs.fabfile.org/0.9.0/); unknown archive format: .txt
+    Skipping link http://sphinx.pocoo.org/ (from http://docs.fabfile.org/0.9.0/); not a file
+  Analyzing links from page http://www.nongnu.org/fab/
+    Skipping link http://fabfile.org (from http://www.nongnu.org/fab/); not a file
+  Analyzing links from page http://www.nongnu.org/fab/
+    Skipping link http://fabfile.org (from http://www.nongnu.org/fab/); not a file
+  Analyzing links from page https://savannah.nongnu.org/projects/fab/
+    Skipping link https://savannah.nongnu.org/css/Savannah.css (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .css
+    Skipping link https://savannah.nongnu.org/images/Savannah.theme/icon.png (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .png
+    Skipping link https://savannah.nongnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/account/login.php?uri=%2Fprojects%2Ffab%2F (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/account/register.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects?reload=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects?printer=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/register/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/search/index.php?type_of_search=soft&amp;words=%%% (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/people/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/stats/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/userguide/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/support/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/contact.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://savannah.gnu.org/maintenance/CvsAnonymous (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/FaQ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/help/help.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/directory/GNU (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/software/devel.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/licenses/license-list.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/prep/ftp.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.fsf.org/events/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gplv3.fsf.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.fsf.org/directory/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/SavannahCryptographicRestrictions (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gna.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/project/memberlist.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/project/search.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://www.nongnu.org/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=additem&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=browse&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=digest&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/export.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/?func=search&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/mail/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cvs/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://web.cvs.savannah.nongnu.org/viewvc/?root=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/karmazilla (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/bitprophet (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/licenses/old-licenses/gpl-2.0.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link https://savannah.nongnu.org/project/memberlist-gpgkeys.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects/fab/#top (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://git.sv.gnu.org/gitweb/?p=savane-cleanup.git;a=blob;f=frontend/php/projects;hb=HEAD (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/graphics/meditate.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://savannah.nongnu.org/projects/savane-cleanup (from https://savannah.nongnu.org/projects/fab/); not a file
+  Analyzing links from page https://savannah.nongnu.org/projects/fab/
+    Skipping link https://savannah.nongnu.org/css/Savannah.css (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .css
+    Skipping link https://savannah.nongnu.org/images/Savannah.theme/icon.png (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .png
+    Skipping link https://savannah.nongnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/account/login.php?uri=%2Fprojects%2Ffab%2F (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/account/register.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects?reload=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects?printer=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/register/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/search/index.php?type_of_search=soft&amp;words=%%% (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/people/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/stats/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/userguide/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/support/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/contact.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://savannah.gnu.org/maintenance/CvsAnonymous (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/FaQ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/help/help.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/directory/GNU (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/software/devel.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/licenses/license-list.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/prep/ftp.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.fsf.org/events/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gplv3.fsf.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.fsf.org/directory/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/SavannahCryptographicRestrictions (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gna.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/project/memberlist.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/project/search.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://www.nongnu.org/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=additem&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=browse&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=digest&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/export.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/?func=search&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/mail/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cvs/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://web.cvs.savannah.nongnu.org/viewvc/?root=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/karmazilla (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/bitprophet (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/licenses/old-licenses/gpl-2.0.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link https://savannah.nongnu.org/project/memberlist-gpgkeys.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects/fab/#top (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://git.sv.gnu.org/gitweb/?p=savane-cleanup.git;a=blob;f=frontend/php/projects;hb=HEAD (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/graphics/meditate.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://savannah.nongnu.org/projects/savane-cleanup (from https://savannah.nongnu.org/projects/fab/); not a file
+  Analyzing links from page https://savannah.nongnu.org/projects/fab/
+    Skipping link https://savannah.nongnu.org/css/Savannah.css (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .css
+    Skipping link https://savannah.nongnu.org/images/Savannah.theme/icon.png (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .png
+    Skipping link https://savannah.nongnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/account/login.php?uri=%2Fprojects%2Ffab%2F (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/account/register.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects?reload=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects?printer=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/register/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/search/index.php?type_of_search=soft&amp;words=%%% (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/people/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/stats/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/userguide/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/support/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/contact.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://savannah.gnu.org/maintenance/CvsAnonymous (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/FaQ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/help/help.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/directory/GNU (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/software/devel.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/licenses/license-list.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/prep/ftp.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.fsf.org/events/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gplv3.fsf.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.fsf.org/directory/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/SavannahCryptographicRestrictions (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gna.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/project/memberlist.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/project/search.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://www.nongnu.org/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=additem&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=browse&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=digest&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/export.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/?func=search&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/mail/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cvs/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://web.cvs.savannah.nongnu.org/viewvc/?root=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/karmazilla (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/bitprophet (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/licenses/old-licenses/gpl-2.0.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link https://savannah.nongnu.org/project/memberlist-gpgkeys.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects/fab/#top (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://git.sv.gnu.org/gitweb/?p=savane-cleanup.git;a=blob;f=frontend/php/projects;hb=HEAD (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/graphics/meditate.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://savannah.nongnu.org/projects/savane-cleanup (from https://savannah.nongnu.org/projects/fab/); not a file
+  Analyzing links from page https://savannah.nongnu.org/projects/fab/
+    Skipping link https://savannah.nongnu.org/css/Savannah.css (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .css
+    Skipping link https://savannah.nongnu.org/images/Savannah.theme/icon.png (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .png
+    Skipping link https://savannah.nongnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/account/login.php?uri=%2Fprojects%2Ffab%2F (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/account/register.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects?reload=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects?printer=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/register/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/search/index.php?type_of_search=soft&amp;words=%%% (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/people/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/stats/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/userguide/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/support/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/contact.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://savannah.gnu.org/maintenance/CvsAnonymous (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/FaQ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/help/help.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/directory/GNU (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/software/devel.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/licenses/license-list.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/prep/ftp.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.fsf.org/events/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gplv3.fsf.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.fsf.org/directory/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/SavannahCryptographicRestrictions (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gna.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/project/memberlist.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/project/search.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://www.nongnu.org/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=additem&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=browse&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=digest&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/export.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/?func=search&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/mail/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cvs/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://web.cvs.savannah.nongnu.org/viewvc/?root=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/karmazilla (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/bitprophet (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/licenses/old-licenses/gpl-2.0.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link https://savannah.nongnu.org/project/memberlist-gpgkeys.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects/fab/#top (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://git.sv.gnu.org/gitweb/?p=savane-cleanup.git;a=blob;f=frontend/php/projects;hb=HEAD (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/graphics/meditate.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://savannah.nongnu.org/projects/savane-cleanup (from https://savannah.nongnu.org/projects/fab/); not a file
+  Analyzing links from page https://savannah.nongnu.org/projects/fab/
+    Skipping link https://savannah.nongnu.org/css/Savannah.css (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .css
+    Skipping link https://savannah.nongnu.org/images/Savannah.theme/icon.png (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .png
+    Skipping link https://savannah.nongnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/account/login.php?uri=%2Fprojects%2Ffab%2F (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/account/register.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects?reload=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects?printer=1&amp; (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/register/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/search/index.php?type_of_search=soft&amp;words=%%% (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/people/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/stats/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/userguide/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/support/?group=administration (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/contact.php (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://savannah.gnu.org/maintenance/CvsAnonymous (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/FaQ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/help/help.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/directory/GNU (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/software/devel.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/licenses/license-list.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.gnu.org/prep/ftp.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://www.fsf.org/events/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gplv3.fsf.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.fsf.org/directory/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/maintenance/SavannahCryptographicRestrictions (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://savannah.gnu.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://gna.org/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/projects/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/project/memberlist.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/project/search.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link http://www.nongnu.org/fab/ (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=additem&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=browse&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/edit.php?func=digest&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/export.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/cookbook/?func=search&amp;group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/mail/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/cvs/?group=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://web.cvs.savannah.nongnu.org/viewvc/?root=fab (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/karmazilla (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link https://savannah.nongnu.org/users/bitprophet (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/licenses/old-licenses/gpl-2.0.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link https://savannah.nongnu.org/project/memberlist-gpgkeys.php?group=fab (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .php
+    Skipping link https://savannah.nongnu.org/projects/fab/#top (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://git.sv.gnu.org/gitweb/?p=savane-cleanup.git;a=blob;f=frontend/php/projects;hb=HEAD (from https://savannah.nongnu.org/projects/fab/); not a file
+    Skipping link http://www.gnu.org/graphics/meditate.html (from https://savannah.nongnu.org/projects/fab/); unknown archive format: .html
+    Skipping link http://savannah.nongnu.org/projects/savane-cleanup (from https://savannah.nongnu.org/projects/fab/); not a file
+  Analyzing links from page http://www.nongnu.org/fab/
+    Skipping link http://fabfile.org (from http://www.nongnu.org/fab/); not a file
+  Analyzing links from page http://www.nongnu.org/fab/
+    Skipping link http://fabfile.org (from http://www.nongnu.org/fab/); not a file
+  Analyzing links from page http://www.nongnu.org/fab/
+    Skipping link http://fabfile.org (from http://www.nongnu.org/fab/); not a file
+  Analyzing links from page http://www.nongnu.org/fab/
+    Skipping link http://fabfile.org (from http://www.nongnu.org/fab/); not a file
+  Using version 0.9.0 (newest of versions: 0.9.0, 0.9rc1, 0.1.1, 0.1.0, 0.0.9, 0.0.8, 0.0.7, 0.0.6, 0.0.5.macosx-10.4-i386, 0.0.5, 0.0.4.macosx-10.4-i386, 0.0.4, 0.0.3.macosx-10.4-i386, 0.0.3, 0.0.2.macosx-10.4-i386, 0.0.2, 0.0.1.macosx-10.4-i386, 0.0.1)
+  Downloading from URL http://pypi.python.org/packages/source/F/Fabric/Fabric-0.9.0.tar.gz#md5=696e42e6e771fa2a365cd03536d4cdcf (from http://pypi.python.org/simple/Fabric/)
+  Running setup.py egg_info for package fabric
+    running egg_info
+    creating pip-egg-info/Fabric.egg-info
+    writing requirements to pip-egg-info/Fabric.egg-info/requires.txt
+    writing pip-egg-info/Fabric.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/Fabric.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/Fabric.egg-info/dependency_links.txt
+    writing entry points to pip-egg-info/Fabric.egg-info/entry_points.txt
+    writing manifest file 'pip-egg-info/Fabric.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/Fabric.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    warning: no previously-included files matching '*' found under directory 'docs/_build'
+    writing manifest file 'pip-egg-info/Fabric.egg-info/SOURCES.txt'
+  Source in ./build/fabric has version 0.9.0, which satisfies requirement fabric
+Downloading/unpacking pycrypto>=1.9 (from fabric)
+  Getting page http://pypi.python.org/simple/pycrypto
+  URLs to search for versions for pycrypto>=1.9 (from fabric):
+  * http://pypi.python.org/simple/pycrypto/
+  Getting page http://pycrypto.sourceforge.net
+  Getting page http://www.amk.ca/python/code/crypto
+  Skipping page http://www.amk.ca/files/python/crypto/pycrypto-2.0.tar.gz (from http://pypi.python.org/simple/pycrypto/) because of Content-Type: 
+  Skipping page http://www.amk.ca/files/python/crypto/pycrypto-2.0.1.tar.gz (from http://pypi.python.org/simple/pycrypto/) because of Content-Type: application/x-tar
+  Skipping page http://www.amk.ca/files/python/crypto/pycrypto-1.9a6.tar.gz (from http://pypi.python.org/simple/pycrypto/) because of Content-Type: application/x-tar
+  Skipping page http://www.amk.ca/files/python/pycrypto-1.9a5.tar.gz (from http://pypi.python.org/simple/pycrypto/) because of Content-Type: 
+  Analyzing links from page http://pypi.python.org/simple/pycrypto/
+    Found link http://pypi.python.org/packages/source/p/pycrypto/pycrypto-2.0.1.tar.gz#md5=277aa00f27cfbb08f21063f4beb6de59 (from http://pypi.python.org/simple/pycrypto/), version: 2.0.1
+    Skipping link http://pycrypto.sourceforge.net (from http://pypi.python.org/simple/pycrypto/); not a file
+    Skipping link http://www.amk.ca/python/code/crypto (from http://pypi.python.org/simple/pycrypto/); not a file
+    Found link http://www.amk.ca/files/python/crypto/pycrypto-2.0.tar.gz (from http://pypi.python.org/simple/pycrypto/), version: 2.0
+    Found link http://www.amk.ca/files/python/crypto/pycrypto-2.0.1.tar.gz (from http://pypi.python.org/simple/pycrypto/), version: 2.0.1
+    Found link http://www.amk.ca/files/python/crypto/pycrypto-1.9a6.tar.gz (from http://pypi.python.org/simple/pycrypto/), version: 1.9a6
+    Found link http://www.amk.ca/files/python/pycrypto-1.9a5.tar.gz (from http://pypi.python.org/simple/pycrypto/), version: 1.9a5
+  Analyzing links from page http://pycrypto.sourceforge.net
+    Skipping link http://www.amk.ca/python/code/crypto.html (from http://pycrypto.sourceforge.net); unknown archive format: .html
+  Analyzing links from page http://www.amk.ca/python/code/crypto
+    Skipping link http://www.amk.ca/base.css (from http://www.amk.ca/python/code/crypto); unknown archive format: .css
+    Skipping link http://www.amk.ca/python/code/crypto (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/ (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/python/code/ (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/search (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/python/code/gpg (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/python/code/gallery (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link mailto:comments@amk.ca (from http://www.amk.ca/python/code/crypto); unknown archive format: .ca
+  Analyzing links from page http://www.amk.ca/python/code/crypto
+    Skipping link http://www.amk.ca/base.css (from http://www.amk.ca/python/code/crypto); unknown archive format: .css
+    Skipping link http://www.amk.ca/python/code/crypto (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/ (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/python/code/ (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/search (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/python/code/gpg (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link http://www.amk.ca/python/code/gallery (from http://www.amk.ca/python/code/crypto); not a file
+    Skipping link mailto:comments@amk.ca (from http://www.amk.ca/python/code/crypto); unknown archive format: .ca
+  Analyzing links from page http://pycrypto.sourceforge.net
+    Skipping link http://www.amk.ca/python/code/crypto.html (from http://pycrypto.sourceforge.net); unknown archive format: .html
+  Analyzing links from page http://pycrypto.sourceforge.net
+    Skipping link http://www.amk.ca/python/code/crypto.html (from http://pycrypto.sourceforge.net); unknown archive format: .html
+  Ignoring link http://www.amk.ca/files/python/crypto/pycrypto-1.9a6.tar.gz (from http://pypi.python.org/simple/pycrypto/), version 1.9a6 doesn't match >=1.9
+  Ignoring link http://www.amk.ca/files/python/pycrypto-1.9a5.tar.gz (from http://pypi.python.org/simple/pycrypto/), version 1.9a5 doesn't match >=1.9
+  Using version 2.0.1 (newest of versions: 2.0.1, 2.0.1, 2.0)
+  Downloading from URL http://pypi.python.org/packages/source/p/pycrypto/pycrypto-2.0.1.tar.gz#md5=277aa00f27cfbb08f21063f4beb6de59 (from http://pypi.python.org/simple/pycrypto/)
+  Running setup.py egg_info for package pycrypto
+    running egg_info
+    creating pip-egg-info/pycrypto.egg-info
+    writing pip-egg-info/pycrypto.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/pycrypto.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/pycrypto.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/pycrypto.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/pycrypto.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/pycrypto.egg-info/SOURCES.txt'
+  Source in ./build/pycrypto has version 2.0.1, which satisfies requirement pycrypto>=1.9 (from fabric)
+Installing collected packages: fabric, pycrypto
+  Running setup.py install for fabric
+    Running command /usr/bin/python -c "import setuptools; __file__='/Users/mattwarren/Sites/Resume/build/fabric/setup.py'; execfile('/Users/mattwarren/Sites/Resume/build/fabric/setup.py')" install --single-version-externally-managed --record /var/folders/8n/8ndgPVJ2FWO8W5Rf-aib9++++TI/-Tmp-/pip-VAAAgl-record/install-record.txt --install-headers /Users/mattwarren/Sites/Resume/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib
+    creating build/lib/fabric
+    copying fabric/__init__.py -> build/lib/fabric
+    copying fabric/api.py -> build/lib/fabric
+    copying fabric/context_managers.py -> build/lib/fabric
+    copying fabric/decorators.py -> build/lib/fabric
+    copying fabric/main.py -> build/lib/fabric
+    copying fabric/network.py -> build/lib/fabric
+    copying fabric/operations.py -> build/lib/fabric
+    copying fabric/state.py -> build/lib/fabric
+    copying fabric/utils.py -> build/lib/fabric
+    copying fabric/version.py -> build/lib/fabric
+    creating build/lib/paramiko
+    copying paramiko/__init__.py -> build/lib/paramiko
+    copying paramiko/agent.py -> build/lib/paramiko
+    copying paramiko/auth_handler.py -> build/lib/paramiko
+    copying paramiko/ber.py -> build/lib/paramiko
+    copying paramiko/buffered_pipe.py -> build/lib/paramiko
+    copying paramiko/channel.py -> build/lib/paramiko
+    copying paramiko/client.py -> build/lib/paramiko
+    copying paramiko/common.py -> build/lib/paramiko
+    copying paramiko/compress.py -> build/lib/paramiko
+    copying paramiko/config.py -> build/lib/paramiko
+    copying paramiko/dsskey.py -> build/lib/paramiko
+    copying paramiko/file.py -> build/lib/paramiko
+    copying paramiko/hostkeys.py -> build/lib/paramiko
+    copying paramiko/kex_gex.py -> build/lib/paramiko
+    copying paramiko/kex_group1.py -> build/lib/paramiko
+    copying paramiko/logging22.py -> build/lib/paramiko
+    copying paramiko/message.py -> build/lib/paramiko
+    copying paramiko/packet.py -> build/lib/paramiko
+    copying paramiko/pipe.py -> build/lib/paramiko
+    copying paramiko/pkey.py -> build/lib/paramiko
+    copying paramiko/primes.py -> build/lib/paramiko
+    copying paramiko/resource.py -> build/lib/paramiko
+    copying paramiko/rng.py -> build/lib/paramiko
+    copying paramiko/rng_posix.py -> build/lib/paramiko
+    copying paramiko/rng_win32.py -> build/lib/paramiko
+    copying paramiko/rsakey.py -> build/lib/paramiko
+    copying paramiko/server.py -> build/lib/paramiko
+    copying paramiko/sftp.py -> build/lib/paramiko
+    copying paramiko/sftp_attr.py -> build/lib/paramiko
+    copying paramiko/sftp_client.py -> build/lib/paramiko
+    copying paramiko/sftp_file.py -> build/lib/paramiko
+    copying paramiko/sftp_handle.py -> build/lib/paramiko
+    copying paramiko/sftp_server.py -> build/lib/paramiko
+    copying paramiko/sftp_si.py -> build/lib/paramiko
+    copying paramiko/ssh_exception.py -> build/lib/paramiko
+    copying paramiko/transport.py -> build/lib/paramiko
+    copying paramiko/util.py -> build/lib/paramiko
+    copying paramiko/win_pageant.py -> build/lib/paramiko
+    creating build/lib/fabric/contrib
+    copying fabric/contrib/__init__.py -> build/lib/fabric/contrib
+    copying fabric/contrib/console.py -> build/lib/fabric/contrib
+    copying fabric/contrib/files.py -> build/lib/fabric/contrib
+    copying fabric/contrib/project.py -> build/lib/fabric/contrib
+    running install_lib
+    creating /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/__init__.py -> /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/api.py -> /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/context_managers.py -> /Library/Python/2.6/site-packages/fabric
+    creating /Library/Python/2.6/site-packages/fabric/contrib
+    copying build/lib/fabric/contrib/__init__.py -> /Library/Python/2.6/site-packages/fabric/contrib
+    copying build/lib/fabric/contrib/console.py -> /Library/Python/2.6/site-packages/fabric/contrib
+    copying build/lib/fabric/contrib/files.py -> /Library/Python/2.6/site-packages/fabric/contrib
+    copying build/lib/fabric/contrib/project.py -> /Library/Python/2.6/site-packages/fabric/contrib
+    copying build/lib/fabric/decorators.py -> /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/main.py -> /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/network.py -> /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/operations.py -> /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/state.py -> /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/utils.py -> /Library/Python/2.6/site-packages/fabric
+    copying build/lib/fabric/version.py -> /Library/Python/2.6/site-packages/fabric
+    creating /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/__init__.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/agent.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/auth_handler.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/ber.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/buffered_pipe.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/channel.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/client.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/common.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/compress.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/config.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/dsskey.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/file.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/hostkeys.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/kex_gex.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/kex_group1.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/logging22.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/message.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/packet.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/pipe.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/pkey.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/primes.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/resource.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/rng.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/rng_posix.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/rng_win32.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/rsakey.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/server.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/sftp.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/sftp_attr.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/sftp_client.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/sftp_file.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/sftp_handle.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/sftp_server.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/sftp_si.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/ssh_exception.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/transport.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/util.py -> /Library/Python/2.6/site-packages/paramiko
+    copying build/lib/paramiko/win_pageant.py -> /Library/Python/2.6/site-packages/paramiko
+    byte-compiling /Library/Python/2.6/site-packages/fabric/__init__.py to __init__.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/api.py to api.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/context_managers.py to context_managers.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/contrib/__init__.py to __init__.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/contrib/console.py to console.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/contrib/files.py to files.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/contrib/project.py to project.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/decorators.py to decorators.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/main.py to main.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/network.py to network.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/operations.py to operations.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/state.py to state.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/utils.py to utils.pyc
+    byte-compiling /Library/Python/2.6/site-packages/fabric/version.py to version.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/__init__.py to __init__.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/agent.py to agent.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/auth_handler.py to auth_handler.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/ber.py to ber.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/buffered_pipe.py to buffered_pipe.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/channel.py to channel.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/client.py to client.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/common.py to common.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/compress.py to compress.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/config.py to config.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/dsskey.py to dsskey.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/file.py to file.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/hostkeys.py to hostkeys.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/kex_gex.py to kex_gex.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/kex_group1.py to kex_group1.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/logging22.py to logging22.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/message.py to message.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/packet.py to packet.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/pipe.py to pipe.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/pkey.py to pkey.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/primes.py to primes.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/resource.py to resource.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/rng.py to rng.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/rng_posix.py to rng_posix.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/rng_win32.py to rng_win32.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/rsakey.py to rsakey.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/server.py to server.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp.py to sftp.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_attr.py to sftp_attr.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_client.py to sftp_client.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_file.py to sftp_file.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_handle.py to sftp_handle.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_server.py to sftp_server.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_si.py to sftp_si.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/ssh_exception.py to ssh_exception.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/transport.py to transport.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/util.py to util.pyc
+    byte-compiling /Library/Python/2.6/site-packages/paramiko/win_pageant.py to win_pageant.pyc
+    running install_egg_info
+    running egg_info
+    writing requirements to Fabric.egg-info/requires.txt
+    writing Fabric.egg-info/PKG-INFO
+    writing top-level names to Fabric.egg-info/top_level.txt
+    writing dependency_links to Fabric.egg-info/dependency_links.txt
+    writing entry points to Fabric.egg-info/entry_points.txt
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'Fabric.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    warning: no previously-included files matching '*' found under directory 'docs/_build'
+    writing manifest file 'Fabric.egg-info/SOURCES.txt'
+    Copying Fabric.egg-info to /Library/Python/2.6/site-packages/Fabric-0.9.0-py2.6.egg-info
+    running install_scripts
+    Installing fab script to /usr/local/bin
+    error: /usr/local/bin/fab: Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/Users/mattwarren/Sites/Resume/build/fabric/setup.py'; execfile('/Users/mattwarren/Sites/Resume/build/fabric/setup.py')" install --single-version-externally-managed --record /var/folders/8n/8ndgPVJ2FWO8W5Rf-aib9++++TI/-Tmp-/pip-VAAAgl-record/install-record.txt --install-headers /Users/mattwarren/Sites/Resume/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib
+
+creating build/lib/fabric
+
+copying fabric/__init__.py -> build/lib/fabric
+
+copying fabric/api.py -> build/lib/fabric
+
+copying fabric/context_managers.py -> build/lib/fabric
+
+copying fabric/decorators.py -> build/lib/fabric
+
+copying fabric/main.py -> build/lib/fabric
+
+copying fabric/network.py -> build/lib/fabric
+
+copying fabric/operations.py -> build/lib/fabric
+
+copying fabric/state.py -> build/lib/fabric
+
+copying fabric/utils.py -> build/lib/fabric
+
+copying fabric/version.py -> build/lib/fabric
+
+creating build/lib/paramiko
+
+copying paramiko/__init__.py -> build/lib/paramiko
+
+copying paramiko/agent.py -> build/lib/paramiko
+
+copying paramiko/auth_handler.py -> build/lib/paramiko
+
+copying paramiko/ber.py -> build/lib/paramiko
+
+copying paramiko/buffered_pipe.py -> build/lib/paramiko
+
+copying paramiko/channel.py -> build/lib/paramiko
+
+copying paramiko/client.py -> build/lib/paramiko
+
+copying paramiko/common.py -> build/lib/paramiko
+
+copying paramiko/compress.py -> build/lib/paramiko
+
+copying paramiko/config.py -> build/lib/paramiko
+
+copying paramiko/dsskey.py -> build/lib/paramiko
+
+copying paramiko/file.py -> build/lib/paramiko
+
+copying paramiko/hostkeys.py -> build/lib/paramiko
+
+copying paramiko/kex_gex.py -> build/lib/paramiko
+
+copying paramiko/kex_group1.py -> build/lib/paramiko
+
+copying paramiko/logging22.py -> build/lib/paramiko
+
+copying paramiko/message.py -> build/lib/paramiko
+
+copying paramiko/packet.py -> build/lib/paramiko
+
+copying paramiko/pipe.py -> build/lib/paramiko
+
+copying paramiko/pkey.py -> build/lib/paramiko
+
+copying paramiko/primes.py -> build/lib/paramiko
+
+copying paramiko/resource.py -> build/lib/paramiko
+
+copying paramiko/rng.py -> build/lib/paramiko
+
+copying paramiko/rng_posix.py -> build/lib/paramiko
+
+copying paramiko/rng_win32.py -> build/lib/paramiko
+
+copying paramiko/rsakey.py -> build/lib/paramiko
+
+copying paramiko/server.py -> build/lib/paramiko
+
+copying paramiko/sftp.py -> build/lib/paramiko
+
+copying paramiko/sftp_attr.py -> build/lib/paramiko
+
+copying paramiko/sftp_client.py -> build/lib/paramiko
+
+copying paramiko/sftp_file.py -> build/lib/paramiko
+
+copying paramiko/sftp_handle.py -> build/lib/paramiko
+
+copying paramiko/sftp_server.py -> build/lib/paramiko
+
+copying paramiko/sftp_si.py -> build/lib/paramiko
+
+copying paramiko/ssh_exception.py -> build/lib/paramiko
+
+copying paramiko/transport.py -> build/lib/paramiko
+
+copying paramiko/util.py -> build/lib/paramiko
+
+copying paramiko/win_pageant.py -> build/lib/paramiko
+
+creating build/lib/fabric/contrib
+
+copying fabric/contrib/__init__.py -> build/lib/fabric/contrib
+
+copying fabric/contrib/console.py -> build/lib/fabric/contrib
+
+copying fabric/contrib/files.py -> build/lib/fabric/contrib
+
+copying fabric/contrib/project.py -> build/lib/fabric/contrib
+
+running install_lib
+
+creating /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/__init__.py -> /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/api.py -> /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/context_managers.py -> /Library/Python/2.6/site-packages/fabric
+
+creating /Library/Python/2.6/site-packages/fabric/contrib
+
+copying build/lib/fabric/contrib/__init__.py -> /Library/Python/2.6/site-packages/fabric/contrib
+
+copying build/lib/fabric/contrib/console.py -> /Library/Python/2.6/site-packages/fabric/contrib
+
+copying build/lib/fabric/contrib/files.py -> /Library/Python/2.6/site-packages/fabric/contrib
+
+copying build/lib/fabric/contrib/project.py -> /Library/Python/2.6/site-packages/fabric/contrib
+
+copying build/lib/fabric/decorators.py -> /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/main.py -> /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/network.py -> /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/operations.py -> /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/state.py -> /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/utils.py -> /Library/Python/2.6/site-packages/fabric
+
+copying build/lib/fabric/version.py -> /Library/Python/2.6/site-packages/fabric
+
+creating /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/__init__.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/agent.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/auth_handler.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/ber.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/buffered_pipe.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/channel.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/client.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/common.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/compress.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/config.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/dsskey.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/file.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/hostkeys.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/kex_gex.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/kex_group1.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/logging22.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/message.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/packet.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/pipe.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/pkey.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/primes.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/resource.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/rng.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/rng_posix.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/rng_win32.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/rsakey.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/server.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/sftp.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/sftp_attr.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/sftp_client.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/sftp_file.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/sftp_handle.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/sftp_server.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/sftp_si.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/ssh_exception.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/transport.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/util.py -> /Library/Python/2.6/site-packages/paramiko
+
+copying build/lib/paramiko/win_pageant.py -> /Library/Python/2.6/site-packages/paramiko
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/__init__.py to __init__.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/api.py to api.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/context_managers.py to context_managers.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/contrib/__init__.py to __init__.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/contrib/console.py to console.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/contrib/files.py to files.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/contrib/project.py to project.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/decorators.py to decorators.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/main.py to main.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/network.py to network.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/operations.py to operations.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/state.py to state.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/utils.py to utils.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/fabric/version.py to version.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/__init__.py to __init__.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/agent.py to agent.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/auth_handler.py to auth_handler.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/ber.py to ber.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/buffered_pipe.py to buffered_pipe.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/channel.py to channel.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/client.py to client.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/common.py to common.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/compress.py to compress.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/config.py to config.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/dsskey.py to dsskey.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/file.py to file.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/hostkeys.py to hostkeys.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/kex_gex.py to kex_gex.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/kex_group1.py to kex_group1.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/logging22.py to logging22.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/message.py to message.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/packet.py to packet.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/pipe.py to pipe.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/pkey.py to pkey.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/primes.py to primes.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/resource.py to resource.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/rng.py to rng.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/rng_posix.py to rng_posix.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/rng_win32.py to rng_win32.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/rsakey.py to rsakey.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/server.py to server.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp.py to sftp.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_attr.py to sftp_attr.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_client.py to sftp_client.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_file.py to sftp_file.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_handle.py to sftp_handle.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_server.py to sftp_server.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/sftp_si.py to sftp_si.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/ssh_exception.py to ssh_exception.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/transport.py to transport.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/util.py to util.pyc
+
+byte-compiling /Library/Python/2.6/site-packages/paramiko/win_pageant.py to win_pageant.pyc
+
+running install_egg_info
+
+running egg_info
+
+writing requirements to Fabric.egg-info/requires.txt
+
+writing Fabric.egg-info/PKG-INFO
+
+writing top-level names to Fabric.egg-info/top_level.txt
+
+writing dependency_links to Fabric.egg-info/dependency_links.txt
+
+writing entry points to Fabric.egg-info/entry_points.txt
+
+warning: manifest_maker: standard file '-c' not found
+
+reading manifest file 'Fabric.egg-info/SOURCES.txt'
+
+reading manifest template 'MANIFEST.in'
+
+warning: no previously-included files matching '*' found under directory 'docs/_build'
+
+writing manifest file 'Fabric.egg-info/SOURCES.txt'
+
+Copying Fabric.egg-info to /Library/Python/2.6/site-packages/Fabric-0.9.0-py2.6.egg-info
+
+running install_scripts
+
+Installing fab script to /usr/local/bin
+
+error: /usr/local/bin/fab: Permission denied
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/Users/mattwarren/Sites/Resume/build/fabric/setup.py'; execfile('/Users/mattwarren/Sites/Resume/build/fabric/setup.py')" install --single-version-externally-managed --record /var/folders/8n/8ndgPVJ2FWO8W5Rf-aib9++++TI/-Tmp-/pip-VAAAgl-record/install-record.txt --install-headers /Users/mattwarren/Sites/Resume/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/Library/Python/2.6/site-packages/pip-0.5.1-py2.6.egg/pip.py", line 295, in main
+    self.run(options, args)
+  File "/Library/Python/2.6/site-packages/pip-0.5.1-py2.6.egg/pip.py", line 481, in run
+    requirement_set.install(install_options)
+  File "/Library/Python/2.6/site-packages/pip-0.5.1-py2.6.egg/pip.py", line 2273, in install
+    requirement.install(install_options)
+  File "/Library/Python/2.6/site-packages/pip-0.5.1-py2.6.egg/pip.py", line 1700, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/Library/Python/2.6/site-packages/pip-0.5.1-py2.6.egg/pip.py", line 3855, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/Users/mattwarren/Sites/Resume/build/fabric/setup.py'; execfile('/Users/mattwarren/Sites/Resume/build/fabric/setup.py')" install --single-version-externally-managed --record /var/folders/8n/8ndgPVJ2FWO8W5Rf-aib9++++TI/-Tmp-/pip-VAAAgl-record/install-record.txt --install-headers /Users/mattwarren/Sites/Resume/lib/include failed with error code 1

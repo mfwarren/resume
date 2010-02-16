@@ -1,0 +1,104 @@
+body {
+	background: url(images/wood_floor-minified.jpg) #fff; 
+	color: #333;
+	font: 12px/18px helvetica, arial, sans-serif;
+	margin: 30px 0;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px solid;
+}
+
+h1, h2, p {
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+    margin-bottom:10px;
+}
+
+#page-bottom {
+	background: url(images/bottom.png ) no-repeat 0 -5px;
+	margin: 0 0 0 100px;
+	height: 55px;
+}
+
+#cv {
+	width: 800px;
+	margin: 0 0 0 100px;
+    position: relative;
+    background: url(images/body.png ) repeat-y;
+}
+
+div#header {
+    background: url(images/top.jpg ) no-repeat 0 0px #fff;
+    width: 100%;
+    height: 411px;
+    padding-top: 90px;
+    z-index: 2;
+	overflow: hidden; /* self clearing */
+}
+
+div#content {
+    margin-top: -357px;  /* 357px to keep vertical rhythm */
+}
+
+section { 
+    display: block;
+    width: 660px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+#title { 
+    float: left; 
+    margin-bottom: 18px;
+    padding: 0 70px 0;
+}
+#title span#name, .section h2 { text-transform: uppercase;}
+section h2 { 
+	border-bottom: 1px solid #333;
+	margin-bottom: 17px;
+}
+
+
+ul, dl { margin: 0; padding: 0; list-style-type: none;}
+#contact dt {
+	width: 20px;
+	text-indent: -9999px;
+	float: right;
+	margin-right: 70px;
+	display: inline; /* ie hack */
+}
+dt#email { background: url(images/email.png) no-repeat top right;}
+dt#tel { background: url(images/telephone.png) no-repeat top right;}
+dt#address { background: url(images/house.png) no-repeat top right;}
+#contact dd { text-align: right; }
+span.fn { display: none; }
+
+.items dt { 
+	font-weight: bold; 
+	float: left;
+	text-align: right;
+	width: 150px;
+}
+.items dd { 
+  padding: 0 0 18px 165px; 
+  margin: 0;
+}
+.items dd span.item-title { font-weight: bold;}
+.items li { 
+	margin-left: 0;
+	padding: 0;
+}
+
+span.back-link { text-align: right; float: right;}
+
+#footer {
+    width: 760px;
+	margin: 0 0 0 120px;
+}
